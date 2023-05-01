@@ -1,8 +1,8 @@
 # Test environment
 def print_hello():
-	animals = ['dog','cat','hamster']
-	foods = ['icecream','latte']
-	names = ['John','Jane','Gil-dong',]
+	animals = ['dog','cat','hamster','tiger']
+	foods = ['icecream','latte','bibimbap']
+	names = ['John','Jane','Gil-dong','Dong-eun',]
 	for f_name in names:
 		print(f'hello, {f_name}')	
 
