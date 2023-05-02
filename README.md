@@ -1,4 +1,4 @@
-# git-practice501
+It is just practice Documents and git, naming git-practice501
 
 Abstract: This project is to practice git.
 [See Demo](https://www.google.com/)
