@@ -13,7 +13,9 @@ def print_hello():
 		'John',
 		'Jane',
 		'Gil-dong',
-		'Dong-eun',]
+		'Dong-eun',
+		'Yeon-jin,
+		]
 	for f_name in names:
 		print(f'ihello, {f_name}')	
 
